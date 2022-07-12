@@ -10,7 +10,7 @@ O projeto consiste em um sistema de cadastro e login de usuário. Ele também re
 ![Cadastro](imagens/cadastrocliente.png "Foto representando o cadastro no sistema.")
 
 #### Manipulação das Datas
-![Datas](imagens/data.png "Foto representando as diversas formas de manipulação de datas .")
+![Datas](imagens/datas.png "Foto representando as diversas formas de manipulação de datas .")
 
 #### Lista de Clientes
 ![Clientes](imagens/listaclientes.png "Foto representando a tabela de visualização dos clientes cadastrados .")
